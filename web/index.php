@@ -12,5 +12,9 @@ foreach ($_SERVER as $header => $value )
 	strpos($header , 'REQUEST')!== false) {echo $header.' = '.$value."\n"; } }
 ?>
 </pre>
+
+This product includes GeoLite2 data created by MaxMind, available from
+<a href="http://www.maxmind.com">http://www.maxmind.com</a>.
+
 </body>
 </html>

@@ -1,2 +1,4 @@
 vendor/
 .env
+GeoLite2-City.mmdb.gz
+GeoLite2-City.mmdb

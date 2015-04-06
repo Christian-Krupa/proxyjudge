@@ -5,5 +5,7 @@ proxyjudge
 
 - [x] show browser header
 - [x] show proxy header
-- [ ] detect geolocation
-- [ ] show real ip when a reverse proxy / http accelerator is used 
+- [x] detect geolocation
+- [x] show real ip when a reverse proxy / http accelerator is used 
+- [ ] support for multiple proxies (x-forwarded-for: client1, proxy1, proxy2)
+- [ ] support for domains (x-forwarded-for: out.company.com)

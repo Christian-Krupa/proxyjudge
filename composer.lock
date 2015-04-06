@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "7c863744be6027cd96b450eb738ac7d2",
+    "hash": "261f07065fbed2f7d6a38ee441c457df",
     "packages": [
         {
             "name": "geoip2/geoip2",
